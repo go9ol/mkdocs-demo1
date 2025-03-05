@@ -2,6 +2,18 @@ site_name: Еда для татар и не только!
 site_url: https://go9ol.github.io/mkdocs-demo1/
 theme:
   name: material
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 markdown_extensions:
   - admonition
   - pymdownx.details
