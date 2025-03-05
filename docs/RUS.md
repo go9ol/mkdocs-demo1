@@ -2,9 +2,9 @@
 
 # Ачма
 
-<a href='https://postimg.cc/Nyh8ZBX9' target='_blank'><img src='https://i.postimg.cc/Nyh8ZBX9/photo-2025-03-04-19-23-16.jpg' border='0' alt='photo-2025-03-04-19-23-16'/></a>
-<a href='https://postimg.cc/Xr9BGFZq' target='_blank'><img src='https://i.postimg.cc/Xr9BGFZq/photo-2025-03-04-19-23-14.jpg' border='0' alt='photo-2025-03-04-19-23-14'/></a>
-<a href='https://postimg.cc/Ny4ybckw' target='_blank'><img src='https://i.postimg.cc/Ny4ybckw/photo-2025-03-04-19-23-09.jpg' border='0' alt='photo-2025-03-04-19-23-09'/></a>
+![alt text](assets/photo_2025-03-04_19-23-16.jpg){ width="300" }
+![alt text](assets/photo_2025-03-04_19-23-14.jpg){ width="300" }
+![alt text](assets/photo_2025-03-04_19-23-09.jpg){ width="300" }
 
 ## Состав 
 

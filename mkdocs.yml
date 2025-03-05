@@ -2,6 +2,8 @@ site_name: Еда для татар и не только!
 site_url: https://go9ol.github.io/mkdocs-demo1/
 theme:
   name: material
+  logo: assets/sticker.webp
+  favicon: assets/sticker.webp
   palette:
     # Palette toggle for light mode
     - scheme: default
