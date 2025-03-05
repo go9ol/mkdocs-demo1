@@ -29,4 +29,4 @@
 
 Наслаждайтесь!
 
-[![sticker.webp](https://i.postimg.cc/nLY9K4RY/sticker.webp)](https://postimg.cc/jW2jt7rL)
+![alt text](assets/sticker.webp){ width="300" }
