@@ -1,4 +1,4 @@
-site_name: Еда для татар и не только!
+site_name: Рецептлар
 site_url: https://go9ol.github.io/mkdocs-demo1/
 theme:
   name: material
@@ -23,3 +23,4 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.blocks.caption
+  - tables
